@@ -7,3 +7,4 @@
 ### U-BRITE Cancer web portal: https://cancer.ubrite.org/
 ### PAGER: http://discovery.informatics.uab.edu/PAGER/
 ### SEAS: http://discovery.informatics.uab.edu/SEAS/
+[![DOI](https://zenodo.org/badge/519324587.svg)](https://zenodo.org/badge/latestdoi/519324587)
